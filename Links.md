@@ -1,4 +1,7 @@
+
 # 1.small object detection
+
+
 
 ### Perceptual generative adversarial networks for small object detection
 + link:http://openaccess.thecvf.com/content_cvpr_2017/html/Li_Perceptual_Generative_Adversarial_CVPR_2017_paper.html
@@ -33,7 +36,12 @@
 ### You only look twice: Rapid multi-scale object detection in satellite imagery
 + link:https://arxiv.org/abs/1805.09512
 
+
+
 # 2.object detection
+
+
+
 
 ### Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving
 + paper link:https://arxiv.org/abs/1904.04620
@@ -53,7 +61,13 @@
 ### Faster r-cnn: Towards real-time object detection with region proposal networks
 + link:http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks
 
+
+
+
 # 3.one shot learning
+
+
+
 
 ### Edge-Labeling Graph Neural Network for Few-shot Learning(classification)
 + link:https://arxiv.org/abs/1905.01436
